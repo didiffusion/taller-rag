@@ -39,3 +39,11 @@ The text generation is done using the llama3 model via the Ollama client.
 ## Evaluation
 
 The `main.py` file contains a set of evaluation questions that can be used to test the RAG implementation.
+
+## Potential Features and Improvements
+
+- Implement more sophisticated retrieval mechanisms (e.g., BM25, Sentence Transformers).
+- Use a larger and more diverse knowledge base.
+- Fine-tune the LLM for better answer generation.
+- Add support for different LLMs.
+- Implement a user interface for easier interaction.
